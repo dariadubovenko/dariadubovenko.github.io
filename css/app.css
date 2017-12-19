@@ -8,6 +8,11 @@ body{  background-color:whitesmoke;
 nav {margin-top: 10px;
 border-bottom: 1px solid #8CB4AC; padding: 10px;text-align: right;}
 
+
+video {
+  margin-top: 50px;
+}
+
 .boxes {
   display: flex;
   flex-wrap:wrap;
