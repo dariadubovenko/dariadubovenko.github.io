@@ -39,7 +39,7 @@ header {
   width:80%;
   margin-left: auto;
   margin-right: auto;
-  border-bottom: 1px solid #8CB4AC;
+  border-bottom: 2px solid #8CB4AC;
 }
 
 main {
@@ -72,9 +72,7 @@ path {
 }
 
 .cls-1 {
-  fill: none;
   stroke-width: 4;
-  nd;
   stroke-miterlimit: 10;
 }
 
@@ -93,7 +91,6 @@ button {
 .port {margin-bottom: 80px;}
 h2{
   font-family: 'Cutive Mono', monospace;
-  text-transform: uppercase;
 }
 h3{
   margin-top: 8vw;
