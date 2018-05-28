@@ -11,6 +11,7 @@ border-bottom: 1px solid #8CB4AC; padding: 10px;text-align: right;}
 
 video {
   margin-top: 50px;
+  width: 30em;
 }
 
 .boxes {
@@ -30,6 +31,7 @@ svg {width:100%;}
 .bottom {
   width:70%;
 }
+
 
 nav a {color:#8CB4AC;padding: 10px; text-align: right;}
 nav a:hover{font-weight: bold;color:  #83C8B8;}
